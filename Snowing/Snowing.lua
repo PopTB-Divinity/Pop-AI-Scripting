@@ -76,14 +76,4 @@ function OnTurn()
 	
 	
 	
-end --end of on turn
-
-
---[[
-
-Scripted by Divinity
-January 2021
-For "The Age of Unification" single-player campaign
-www.popre.net
-
-]]
+end
