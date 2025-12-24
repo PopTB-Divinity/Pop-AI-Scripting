@@ -13,4 +13,4 @@ Random generic scripts for Populous, to include on any maps. Might be old/outdat
 == Mini-Games Hub ==
 
 (v1.0) - offline version
-https://mega.nz/file/zddUWKSR#Nqj4UXx3ShVHUBwT55baBpFJVtgWKOH4eVuGUliO6Y4
+https://mega.nz/file/mcUCwTBb#uTCIVSLgJpbeDd4kkIb3aIA6YrPn0jRKcoYjXkztYGM
